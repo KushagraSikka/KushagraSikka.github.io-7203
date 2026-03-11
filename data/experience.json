@@ -1,0 +1,52 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "FINANCIAL ANALYST",
+      "company": "NIRVED VENTURES LLP",
+      "period": "Jul 2023 - Nov 2024",
+      "location": "",
+      "description": "Conducted detailed COGS analysis using advanced Excel and SQL to reduce material variance by 8%. Developed financial forecasting models to project revenue and expenses, improving budget accuracy by 10%. Supported management in pricing and promotional strategy development through competitor benchmarking. Prepared and presented monthly variance and profitability reports. Prepared and filed GST, TDS, and income tax returns. Reviewed over 500 vendor invoices per month for GST input credit eligibility. Coordinated with statutory auditors for tax reconciliations and DTAA reviews. Prepared and validated advance and deferred tax computations.",
+      "responsibilities": [
+        "Conducted detailed COGS analysis using advanced Excel and SQL to reduce material variance by 8%",
+        "Developed financial forecasting models to project revenue and expenses, improving budget accuracy by 10%",
+        "Supported management in pricing and promotional strategy development through competitor benchmarking",
+        "Prepared and presented monthly variance and profitability reports",
+        "Prepared and filed GST, TDS, and income tax returns",
+        "Reviewed over 500 vendor invoices per month for GST input credit eligibility",
+        "Coordinated with statutory auditors for tax reconciliations and DTAA reviews",
+        "Prepared and validated advance and deferred tax computations"
+      ]
+    },
+    {
+      "title": "ACCOUNTING ANALYST",
+      "company": "DILLY HARDWARE COMPANY",
+      "period": "Jun 2020 - Jul 2023",
+      "location": "",
+      "description": "Analyzed financial statements and balance sheets using advanced Excel to identify trends and variances, reducing reporting errors by 15%. Supported budgeting and forecasting processes, contributing to a 5% improvement in cost efficiency. Ensured compliance with GAAP and assisted in both internal and external audits. Collaborated with cross-functional teams to streamline month-end close, reducing turnaround time by 20% through improved reconciliation procedures leveraging Alteryx.",
+      "responsibilities": [
+        "Analyzed financial statements and balance sheets using advanced Excel to identify trends and variances, reducing reporting errors by 15%",
+        "Supported budgeting and forecasting processes, contributing to a 5% improvement in cost efficiency",
+        "Ensured compliance with GAAP and assisted in both internal and external audits",
+        "Collaborated with cross-functional teams to streamline month-end close, reducing turnaround time by 20% through improved reconciliation procedures leveraging Alteryx"
+      ]
+    },
+    {
+      "title": "ARTICLE ASSISTANT",
+      "company": "JAIN SHARMA & COMPANY CHARTERED ACCOUNTANTS",
+      "period": "Aug 2017 - Mar 2020",
+      "location": "",
+      "description": "Prepared and filed income tax, GST, and TDS returns for multiple clients. Participated in tax, statutory, and internal audits, preparing working papers and conducting control testing. Leveraged AI tools, Alteryx, and Power BI to streamline audit data analysis. Assisted international clients in applying DTAA (Double Taxation Avoidance Agreements) to reduce tax liabilities. Managed day-to-day tax accounting and reconciliations, including input/output GST and TDS deduction tracking. Coordinated with external auditors for tax audit documentation. Supported management in implementing tax-efficient procurement and billing processes.",
+      "responsibilities": [
+        "Prepared and filed income tax, GST, and TDS returns for multiple clients",
+        "Participated in tax, statutory, and internal audits, preparing working papers and conducting control testing",
+        "Leveraged AI tools, Alteryx, and Power BI to streamline audit data analysis",
+        "Assisted international clients in applying DTAA (Double Taxation Avoidance Agreements) to reduce tax liabilities",
+        "Managed day-to-day tax accounting and reconciliations, including input/output GST and TDS deduction tracking",
+        "Coordinated with external auditors for tax audit documentation",
+        "Supported management in implementing tax-efficient procurement and billing processes"
+      ]
+    }
+  ]
+}

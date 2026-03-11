@@ -1,0 +1,41 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "MS",
+      "school": "DEPAUL UNIVERSITY, CHICAGO, IL",
+      "institution": "DEPAUL UNIVERSITY, CHICAGO, IL",
+      "period": "Jan 2027",
+      "details": "GPA: 3.4",
+      "description": "GPA: 3.4"
+    },
+    {
+      "degree": "MASTER OF COMMERCE",
+      "school": "UNIVERSITY OF RAJASTHAN, JAIPUR, INDIA",
+      "institution": "UNIVERSITY OF RAJASTHAN, JAIPUR, INDIA",
+      "period": "",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "BACHELOR OF COMMERCE",
+      "school": "UNIVERSITY OF RAJASTHAN, JAIPUR, INDIA",
+      "institution": "UNIVERSITY OF RAJASTHAN, JAIPUR, INDIA",
+      "period": "",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CPA (AICPA)",
+      "issuer": "AICPA"
+    },
+    {
+      "name": "IRS ENROLLED AGENT",
+      "issuer": "IRS"
+    }
+  ]
+}

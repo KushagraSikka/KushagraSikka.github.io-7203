@@ -1,0 +1,38 @@
+{
+  "greeting": "$ echo \"Hello, World!\"",
+  "name": "RISHABH SHARMA",
+  "title": "MS candidate in Audit & Advisory Services",
+  "tagline": "MS candidate in Audit & Advisory Services at DePaul University with over five years in statutory audit, financial reporting, and tax compliance. Proven ability to apply accounting principles and tax provisions, including GST and income tax, using Excel, Word, PowerPoint, Adobe, Tally, and Zoho Books. Skilled in preparing and filing tax returns and streamlining processes to boost accuracy and efficiency. Collaborative team player known for detail orientation and proactive problem-solving.",
+  "ctaText": "ls projects/",
+  "ctaLink": "#projects",
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rishabh-sharma-8b2396168",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:RS160298@GMAIL.COM",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "terminalCommands": [
+    {
+      "cmd": "whoami",
+      "output": "RISHABH SHARMA"
+    },
+    {
+      "cmd": "cat role.txt",
+      "output": "MS candidate in Audit & Advisory Services"
+    },
+    {
+      "cmd": "echo $LOCATION",
+      "output": "CHICAGO, IL"
+    },
+    {
+      "cmd": "ls skills/",
+      "output": "SQL  Tally  Zoho Books  Alteryx  Power BI  QuickBooks"
+    }
+  ]
+}

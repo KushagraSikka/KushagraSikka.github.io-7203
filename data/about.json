@@ -1,0 +1,18 @@
+{
+  "heading": "cat about.txt",
+  "bio": "MS candidate in Audit & Advisory Services at DePaul University with over five years in statutory audit, financial reporting, and tax compliance. Proven ability to apply accounting principles and tax provisions, including GST and income tax, using Excel, Word, PowerPoint, Adobe, Tally, and Zoho Books. Skilled in preparing and filing tax returns and streamlining processes to boost accuracy and efficiency. Collaborative team player known for detail orientation and proactive problem-solving.",
+  "highlights": [
+    {
+      "label": "uptime",
+      "value": "3+"
+    },
+    {
+      "label": "repos",
+      "value": "0+"
+    },
+    {
+      "label": "packages",
+      "value": "22+"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "_instructions": "Add your projects here. Each project should showcase your work.",
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "demo": "https://github.com/KushagraSikka/RAG_Microservice-"
+    },
+    {
+      "title": "cross-platform-marketing-analytics",
+      "description": "Cross-Platform Marketing Analytics Pipeline — Facebook, Google, TikTok | BigQuery + SQL + Tableau",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/cross-platform-marketing-analytics",
+      "demo": "https://github.com/KushagraSikka/cross-platform-marketing-analytics"
+    },
+    {
+      "title": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "technologies": [
+        "JavaScript"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "demo": "https://github.com/KushagraSikka/comprehensive-mcp-guide"
+    },
+    {
+      "title": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "technologies": [
+        "Python",
+        "Makefile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "demo": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc"
+    },
+    {
+      "title": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "demo": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices"
+    },
+    {
+      "title": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "Go",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/KushagraSikka/minikeyvalue",
+      "demo": "https://github.com/KushagraSikka/minikeyvalue"
+    },
+    {
+      "title": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/portfolio",
+      "demo": "https://github.com/KushagraSikka/portfolio"
+    },
+    {
+      "title": "KushagraSikka.github.io-3398",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/KushagraSikka.github.io-3398",
+      "demo": "https://github.com/KushagraSikka/KushagraSikka.github.io-3398"
+    },
+    {
+      "title": "data-pipeline-with-dbt-using-airflow-on-gcp",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp",
+      "demo": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp"
+    },
+    {
+      "title": "python-for-automating-information-security",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "demo": "https://github.com/KushagraSikka/python-for-automating-information-security"
+    },
+    {
+      "title": "symptom-checker-chatbot",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "HTML",
+        "Python",
+        "JavaScript",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+      "demo": "https://github.com/KushagraSikka/symptom-checker-chatbot"
+    },
+    {
+      "title": "about-section-fix-test",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/about-section-fix-test",
+      "demo": "https://github.com/KushagraSikka/about-section-fix-test"
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+      "demo": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker"
+    }
+  ]
+}

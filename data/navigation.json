@@ -1,0 +1,33 @@
+{
+  "logo": "rishabhsharma@portfolio:~$",
+  "items": [
+    {
+      "label": "./home",
+      "href": "#hero"
+    },
+    {
+      "label": "./about",
+      "href": "#about"
+    },
+    {
+      "label": "./experience",
+      "href": "#experience"
+    },
+    {
+      "label": "./skills",
+      "href": "#skills"
+    },
+    {
+      "label": "./projects",
+      "href": "#projects"
+    },
+    {
+      "label": "./education",
+      "href": "#education"
+    },
+    {
+      "label": "./contact",
+      "href": "#contact"
+    }
+  ]
+}

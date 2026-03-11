@@ -1,0 +1,62 @@
+{
+  "_instructions": "Contact section - your contact information and form configuration.",
+  "sectionTitle": "Get In Touch",
+  "contactInfo": [
+    {
+      "type": "email",
+      "icon": "fas fa-envelope",
+      "label": "Email",
+      "value": "RS160298@GMAIL.COM",
+      "href": "mailto:RS160298@GMAIL.COM"
+    },
+    {
+      "type": "phone",
+      "icon": "fas fa-phone",
+      "label": "Phone",
+      "value": "973-978-5785",
+      "href": "tel:9739785785"
+    },
+    {
+      "type": "location",
+      "icon": "fas fa-map-marker-alt",
+      "label": "Location",
+      "value": "CHICAGO, IL",
+      "href": null
+    },
+    {
+      "type": "linkedin",
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn",
+      "value": "rishabh-sharma-8b2396168",
+      "href": "https://www.linkedin.com/in/rishabh-sharma-8b2396168"
+    }
+  ],
+  "form": {
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "label": "Your Name",
+        "placeholder": "Your Name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Your Email",
+        "placeholder": "Your Email",
+        "required": true
+      },
+      {
+        "name": "message",
+        "type": "textarea",
+        "label": "Your Message",
+        "placeholder": "Your Message",
+        "rows": 5,
+        "required": true
+      }
+    ],
+    "submitText": "Send Message",
+    "successMessage": "Thank you for your message! This is a demo form."
+  }
+}

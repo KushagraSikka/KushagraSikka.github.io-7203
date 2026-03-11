@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "RISHABH SHARMA | MS candidate in Audit & Advisory Services",
+    "description": "RISHABH SHARMA - MS candidate in Audit & Advisory Services | Portfolio",
+    "author": "RISHABH SHARMA"
+  },
+  "terminal": {
+    "hostname": "rishabhsharma@portfolio",
+    "prompt": "~$",
+    "matrixChars": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$%^&*()",
+    "matrixColor": "#00ff41"
+  }
+}
